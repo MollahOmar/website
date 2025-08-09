@@ -1,0 +1,7 @@
+name = "autumn-mouse-b71b"
+compatibility_date = "2025-08-09"
+
+[pages]
+# The directory containing your static assets.
+# If your HTML file is in the main directory, use "."
+assets = "."
